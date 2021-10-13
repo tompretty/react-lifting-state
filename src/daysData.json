@@ -1,0 +1,8 @@
+
+  {
+  "Monday":{"plan":"Today is monday, go to the college","color":"blue"},
+  "Tuesday":{"plan":"Today is Tuesday, go to the college","color":"green"},
+  "Wednesday":{"plan":"Today is Wednesday, go to the college","color":"red"},
+  "Thursday":{"plan":"Today is Thursday, go to the college","color":"grey"},
+  "Friday":{"plan":"Today is Friday, go to the college","color":"black"}
+  }
